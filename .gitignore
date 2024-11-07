@@ -1,0 +1,4 @@
+build/
+dist/
+pubic/js/
+CMakeLists.txt.user
